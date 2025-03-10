@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EugenioJoelleJoy_Act_GUI/1.0.0": {
+        "runtime": {
+          "EugenioJoelleJoy_Act_GUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EugenioJoelleJoy_Act_GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
