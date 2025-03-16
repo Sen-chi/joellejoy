@@ -26,3 +26,4 @@ C:\Users\DellUser\Source\Repos\EugenioJoelleJoy_Act_GUI\obj\Debug\net8.0-windows
 C:\Users\DellUser\Source\Repos\EugenioJoelleJoy_Act_GUI\obj\Debug\net8.0-windows\EugenioJoelleJoy_Act_GUI.pdb
 C:\Users\DellUser\Source\Repos\EugenioJoelleJoy_Act_GUI\obj\Debug\net8.0-windows\EugenioJoelleJoy_Act_GUI.genruntimeconfig.cache
 C:\Users\DellUser\Source\Repos\EugenioJoelleJoy_Act_GUI\obj\Debug\net8.0-windows\ref\EugenioJoelleJoy_Act_GUI.dll
+C:\Users\DellUser\Source\Repos\EugenioJoelleJoy_Act_GUI\obj\Debug\net8.0-windows\FormsApp.LoginForm.resources
